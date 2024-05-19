@@ -1,0 +1,63 @@
+Topic :   Abdulkalam Tribute Page
+
+<html> 
+   <head>
+     <title>APJ ABDULKALAM TRIBUTE PAGE</title>
+     <style>
+         li{
+           color: #ff1493 ;
+           font-size: 24px;
+           font:Times New Roman;
+          }
+        ul{
+           font-size: 22px;
+         } 
+     </style>
+   </head>
+    <body>
+       <center>
+              <h1>A.P.J ABDUL KALAM</h1>
+              <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp-The Missile Man Of India<p>
+              <img src="https://theknowledgereview.com/wp-content/uploads/2022/10/Dr-APJ-Abdul-Kalam-%E2%80%93-A-Complete-Teacher-and-an-Inspiring-President.jpg"></img> 
+       </center>
+      <p style="font-size:26px ; color:red">TimeLine Chart:</p>
+      <ul> 
+           <ul><p><li><b>1931:</b></li></p></ul>
+           <ul><p><ul><b>October 15:</b>&nbsp&nbspAvul Pakir Jainulabdeen Abdul Kalam is born in Rameswaram, Tamil Nadu, India.</ul</p></ul>     
+           <p><li><b>1954-1957:</b></li></p>
+           <p><ul><b>Education:</b>&nbsp&nbspAttends St. Joseph's College, Tiruchirappalli, for undergraduate studies in Physics.</ul></p>
+           <p><li><b>1960-1962:</b></li></p>
+           <p><ul><b>Aerospace Engineer:</b>&nbsp&nbspJoins the Aeronautical Development Establishment of the Defence Research and Development Organization (DRDO).</ul></p>
+           <p><li><b>1969:</b></li></p>
+           <p><ul><b>ISRO Contribution:</b>&nbsp&nbspJoins the Indian Space Research Organisation (ISRO) and works as the project director of India's first indigenous Satellite Launch Vehicle (SLV-III).</ul></p>
+           <p><li><b>1980:</b></li></p>
+           <p><ul><b>Leadership Roles:</b>&nbsp&nbspBecomes the Chief Executive of Integrated Guided Missile Development Programme (IGMDP).</ul></p> 
+           <p><li><b>1992-1999:</b></li></p>  
+           <p><ul><b>Presidential Years:</b>&nbsp&nbspServes as the Scientific Advisor to the Prime Minister and Secretary of the Defence Research and Development Organisation (DRDO).</ul></p> 
+           <p><li><b>1997:</b></li></p>
+           <p><ul><b>Award:</b>&nbsp&nbspAwarded the Bharat Ratna, India's highest civilian award.</ul></p>
+           <p><li><b>2002-2007:</b></li></p>  
+           <p><ul><b>Presidential Tenure:</b>&nbsp&nbspBecomes the 11th President of India (2002-2007).</ul></b>
+           <p><li><b>Post-Presidency:</b></li></p>
+           <p><ul><b>Teacher & Author:</b>&nbsp&nbspAfter his presidency, he continued to be involved in education and authored several books.<p><div><b>Advocate for Science & Education:</b> Remains an advocate for science, education, and youth development until his passing.</div></p></ul></p>
+           <p><li><b>2015:</b></li></p>
+           <p><ul><b>Death:</b>&nbsp&nbsp Kalam passes away on July 27, 2015, after suffering a cardiac arrest while delivering a lecture at the Indian Institute of Management, Shillong.</ul></p>   
+       </ul>
+       <hr/>  
+          <p> <center><strong style="font-size:26px">A Visionary Leader and Inspirational Icon</strong></center></p>
+       <ul> 
+         <p><li><b>Early Life and Education:</b></li></p>
+         <p><ul>-Born on October 15, 1931, in Rameswaram, Tamil Nadu, Kalam's modest upbringing laid the foundation for his humility and dedication.<p><div> -His education in physics and aerospace engineering shaped his profound interest in science and technology.</div></p></ul></p>
+         <p><li><b>Contributions to Science and Technology:</b></li></p>
+         <p><ul>-Kalam's journey as an aerospace engineer and his instrumental role in India's missile and space programs mark his pioneering contributions. <div><p>-His leadership in projects like the Satellite Launch Vehicle (SLV-III) and the Integrated Guided Missile Development Programme (IGMDP) showcased India's technological process.</p></div></ul></p>
+         <p><li><b>Presidency and People's President:</b></li></p>
+         <p><ul>-As India's 11th President (2002-2007), Kalam's presidency was marked by his commitment to youth engagement, advocating for education, and bridging the gap between science and society. <div><p>-His speeches resonated deeply, inspiring millions with his vision for a developed India.</div></p></ul></p>
+         <p><li><b> Post-Presidential Impact:</b></li></p>
+         <p><ul>-Beyond his tenure, Kalam continued to influence as an author, teacher, and education advocate. <div><p>-His books on leadership, education, and spirituality continue to inspire generations, emphasizing the importance of knowledge and character-building.</div></p></ul></p>
+         <p><li><b>Legacy and Enduring Influence:</b></li></p>
+         <p><ul>-Awarded the Bharat Ratna and honored worldwide, Kalam's legacy endures as a symbol of diligence, wisdom, and dedication to nation-building.<div><p> -His messages of perseverance, humility, and innovation remain etched in the hearts of millions, guiding future leaders and scientists.</div></p></ul></p>
+         <p><li><b>Eternal Inspiration:</b></li></p>
+         <p><ul>-Dr. APJ Abdul Kalam's life exemplifies the power of knowledge, humility, and vision.<div><p>- His unwavering dedication to science, education, and the youth continues to shape minds and motivate individuals to strive for excellence, making him an eternal inspiration across the globe.</div></p></ul></p>
+       </ul>
+     </body>
+</html>
